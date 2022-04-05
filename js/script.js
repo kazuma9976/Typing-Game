@@ -52,8 +52,7 @@
             return span;
         })
     }; 
-    
-    
+
     // スコアの初期値を設定する
     let score = 0;
     
@@ -71,7 +70,7 @@
             // 最後まで入力したら新しいテキストを用意する
             if(!checkTexts.length) createText();
             
-        // Shiftキーを押した後は色が変わらない
+        // Shiftキーを押した後は色はそのまま変わらない
         } else if(e.key ===  'Shift') {
             wrap.style.backgroundColor = '#666';
             
