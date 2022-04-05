@@ -26,7 +26,7 @@
     // 新しい配列を用意
     let checkTexts =[];
     
-    //ランダムなテキストを画面に表示する
+    //ランダムにテキストを画面に表示する
     const createText = () => {
         const p = document.getElementById('text');
         
