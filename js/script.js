@@ -3,6 +3,7 @@
 {
     //必要なHTML要素の取得
     const wrap = document.getElementById('wrap');
+    const headline = document.getElementById('headline');
     const start = document.getElementById('start');
     
     //複数のテキストを格納する配列
@@ -141,7 +142,8 @@
         // ランダムなテキストを表示する関数
         createText();
         
-        // 「スタート」ボタンを非表示にする処理を追記
+        // 見出しと、「スタート」ボタンを非表示にする処理を追記
+        headline.style.display = 'none';
         start.style.display = 'none';
     
         // キーボードのイベント処理
