@@ -1,12 +1,12 @@
 'use strict';
 
 {
-    //必要なHTML要素の取得
+    // 必要なHTML要素の取得
     const wrap = document.getElementById('wrap');
     const headline = document.getElementById('headline');
     const start = document.getElementById('start');
     
-    //複数のテキストを格納する配列
+    // 複数のテキストを格納する配列
     const textLists = [
        'Hello World','This is my App','How are you?',
        'Today is sunny','I love JavaScript!','Good morning',
