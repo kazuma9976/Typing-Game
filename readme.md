@@ -18,7 +18,7 @@
 - バージョン管理 Git / GitHub
 - GitHub Pages: https://kazuma9976.github.io/Typing-Game/
 
-## 2. 機能一覧(主にDOM操作)
+## 2. 機能一覧
 - ボタンをクリックすると見出しの文字が消えてゲームがスタートする機能
 - 制限時間のカウント機能(60秒)
 - タイピングする単語をランダムに表示させる機能
@@ -34,16 +34,16 @@
 ## 3. このアプリの画像資料
 
 ##### ⓵スタート画面
-![最初の画面](/public/images/sample_1.jpg)
+![最初の画面](/images/sample_1.jpg)
 
 ##### ⓶ゲーム中の画面(その1)
-![ゲーム中の画面(その1)](/public/images/sample_2.jpg)
+![ゲーム中の画面(その1)](/images/sample_2.jpg)
 
 ##### ⓷ゲーム中の画面(その2)
-![ゲーム中の画面(その2)](/public/images/sample_3.jpg)
+![ゲーム中の画面(その2)](/images/sample_3.jpg)
 
 ##### ⓸ゲーム終了時の画面
-![ゲーム終了時の画面](/public/images/sample_4.jpg)
+![ゲーム終了時の画面](/images/sample_4.jpg)
 
 ## 4. お問い合わせ
 駆け出しエンジニアの立場であり、まだまだ不勉強のためバグが潜んでいるかもしれません。
